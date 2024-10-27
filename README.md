@@ -36,7 +36,7 @@ Key functionality
 > [QuickStart](https://lmstudio.ai/docs/basics#1-download-an-llm-to-your-computer)  
 
 2. Open LM Studio. Please patient while the application opens...  
-![lmstudio](https://github.com/AshleyDhevalall/lmstudio-demo/blob/main/docs/lmstudio.png)
+![lmstudio](https://github.com/AshleyDhevalall/llm-tools-demo/tree/main/docs/lmstudio.png)
 
 3. Download model (Click `My Models` on left menu). Ensure you have selected 'Developer' as the role
 You can search for models by keyword (e.g. llama, gemma, lmstudio), or by providing a specific user/model string.  
@@ -44,7 +44,7 @@ You can even insert full Hugging Face URLs into the search bar!. Please patient 
 > [!TIP]
 > [Download Models](https://lmstudio.ai/docs/basics/download-model)
 
-![download](https://github.com/AshleyDhevalall/lmstudio-demo/blob/main/docs/download.png)
+![download](https://github.com/AshleyDhevalall/llm-tools-demo/tree/main/docs/download.png)
 
 4. Clone repository
 ```
@@ -56,7 +56,7 @@ git clone https://github.com/AshleyDhevalall/lmstudio-demo.git
 > [Managing chats](https://lmstudio.ai/docs/basics/chat)
   
 Select model
-![select-model](https://github.com/AshleyDhevalall/lmstudio-demo/blob/main/docs/select_model.png)
+![select-model](https://github.com/AshleyDhevalall/llm-tools-demo/tree/main/docs/select_model.png)
 
 6. Navigate to the folder you cloned in Step 4 and select the `src\UsingSQLWithPowerShellExamplesv1.ps1` file
 
@@ -66,7 +66,7 @@ what passwords are used?
 ```
 
 Sample chat response  
-![chat_response](https://github.com/AshleyDhevalall/lmstudio-demo/blob/main/docs/chat_response.png)
+![chat_response](https://github.com/AshleyDhevalall/llm-tools-demo/tree/main/docs/chat_response.png)
 
 > [!IMPORTANT]  
 > Always verify the accuracy of the results
