@@ -90,12 +90,12 @@ It is an all-in-one zero-setup private application for local LLMs, RAG and AI Ag
 > [QuickStart](https://docs.anythingllm.com/installation-desktop/overview)  
 
 2. Open AnythingLLM. Please patient while the application opens...  
-![anythingllm](https://github.com/AshleyDhevalall/anythingllm-demo/blob/main/docs/anythingllm.png)
+![anythingllm](https://github.com/AshleyDhevalall/llm-tools-demo/blob/main/docs/anythingllm.png)
 
 3. Create new workspace. Enter name for collection and click `Save`
 > [!TIP]
 > [Workspaces](https://docs.anythingllm.com/chat-ui)
-<img src="https://github.com/AshleyDhevalall/anythingllm-demo/blob/main/docs/new_workspace.png" style='height: 30%; width: 30%;'>
+<img src="https://github.com/AshleyDhevalall/llm-tools-demo/blob/main/docs/anythingllm_workspace.png" style='height: 30%; width: 30%;'>
 
 4. Clone repository
 ```
@@ -106,25 +106,25 @@ git clone https://github.com/AshleyDhevalall/anythingllm-demo.git
 > [!WARNING]  
 > PDF, TXT, DOCX, Word docs and more. Unfortunately AnythingLLM does not support .ps1 file :(
 
-<img src="https://github.com/AshleyDhevalall/anythingllm-demo/blob/main/docs/upload.png" style='height: 40%; width: 40%;'>
+<img src="https://github.com/AshleyDhevalall/llm-tools-demo/blob/main/docs/anythingllm_upload.png" style='height: 40%; width: 40%;'>
 
 Drag and drop your files into the box shown below
 
-<img src="https://github.com/AshleyDhevalall/anythingllm-demo/blob/main/docs/drag-and-drop.png" style='height: 40%; width: 40%;'>
+<img src="https://github.com/AshleyDhevalall/llm-tools-demo/blob/main/docs/anythingllm_drag-and-drop.png" style='height: 40%; width: 40%;'>
 
 Once complete, select the file and click `Move to Workspace`
 
-<img src="https://github.com/AshleyDhevalall/anythingllm-demo/blob/main/docs/move-to-workspace.png" style='height: 60%; width: 60%;'>
+<img src="https://github.com/AshleyDhevalall/llm-tools-demo/blob/main/docs/anythingllm_move-to-workspace.png" style='height: 60%; width: 60%;'>
 
 Click `Save and Embed`
 
-<img src="https://github.com/AshleyDhevalall/anythingllm-demo/blob/main/docs/embedding.png" style='height: 65%; width: 65%;'>
+<img src="https://github.com/AshleyDhevalall/llm-tools-demo/blob/main/docs/anythingllm_embedding.png" style='height: 65%; width: 65%;'>
 
 Please patient while the files complete embedding...
 
 Close the `My Documents window` once the embedding is complete
 
-<img src="https://github.com/AshleyDhevalall/anythingllm-demo/blob/main/docs/download.png" style='height: 50%; width: 50%;'>
+<img src="https://github.com/AshleyDhevalall/llm-tools-demo/blob/main/docs/anythingllm_download.png" style='height: 50%; width: 50%;'>
 
 6. Enter your prompt and click `Send prompt message to workspace` icon
 ```
@@ -132,7 +132,7 @@ Who are the characters in Romeo and Juliet?
 ```
 
 Sample prompt response  
-![chat](https://github.com/AshleyDhevalall/anythingllm-demo/blob/main/docs/chat_response.png)
+![chat](https://github.com/AshleyDhevalall/llm-tools-demo/blob/main/docs/anythingllm_chat_response.png)
 
 > [!IMPORTANT]  
 > Always verify the accuracy of the results  
@@ -142,7 +142,7 @@ Could not respond to message. fetch failed
 > [!TIP]
 > [Fetch failed error on embed](https://docs.anythingllm.com/fetch-failed-on-upload)
 
-![troubleshooting](https://github.com/AshleyDhevalall/anythingllm-demo/blob/main/docs/trouble-shooting.png)
+![troubleshooting](https://github.com/AshleyDhevalall/llm-tools-demo/blob/main/docs/anythingllm_trouble-shooting.png)
 
 ### Further reading 
 [Setup](https://docs.anythingllm.com/setup/llm-configuration/local/built-in)  
@@ -165,7 +165,7 @@ Designed to run on modern to relatively modern PCs without needing an internet c
 > [QuickStart](https://docs.gpt4all.io/gpt4all_desktop/quickstart.html)  
 
 2. Open GTP4All. Please patient while the application opens...  
-![open_gtp4all](https://github.com/AshleyDhevalall/gpt4all-demo/blob/main/docs/open_gtp4all.png)
+![open_gtp4all](https://github.com/AshleyDhevalall/llm-tools-demo/blob/main/docs/gpt4all_open_gtp4all.png)
 
 3. Adding new model (Click `Models` on left menu) and then click `+ Add Model` button  
 > [!TIP]
@@ -175,7 +175,7 @@ Designed to run on modern to relatively modern PCs without needing an internet c
 
 4. Search for `Llama 3.2 1B Instruct` and then click `Download`. Please patient while to model downloads...
 
-![explore_models](https://github.com/AshleyDhevalall/gpt4all-demo/blob/main/docs/explore_models.png)
+![explore_models](https://github.com/AshleyDhevalall/llm-tools-demo/blob/main/docs/gpt4all_explore_models.png)
 
 5. Clone repository
 ```
@@ -190,11 +190,11 @@ git clone https://github.com/AshleyDhevalall/gpt4all-demo.git
 > [!TIP]
 > [LocalDocs](https://docs.gpt4all.io/gpt4all_desktop/localdocs.html)  
 
-<img src="https://github.com/AshleyDhevalall/gpt4all-demo/blob/main/docs/add_document_collection.png" style='height: 70%; width: 70%;'>
+<img src="https://github.com/AshleyDhevalall/llm-tools-demo/blob/main/docs/gpt4all_add_document_collection.png" style='height: 70%; width: 70%;'>
 
 7.2 Click `Browse`. Navigate to cloned repository folder above (Step 5) and then select the folder. Please patient while the embeddings complete...  
 
-<img src="https://github.com/AshleyDhevalall/gpt4all-demo/blob/main/docs/embeddings.png" style='height: 70%; width: 70%;'>
+<img src="https://github.com/AshleyDhevalall/llm-tools-demo/blob/main/docs/gpt4all_embeddings.png" style='height: 70%; width: 70%;'>
 
 8. Click `New chat` on left menu. Ensure you select the files from the `Local Docs` panel on the right side  
   
@@ -206,7 +206,7 @@ what passwords are used?
 > [Chat](https://docs.gpt4all.io/gpt4all_desktop/chats.html)
 
 Sample chat response  
-![chat](https://github.com/AshleyDhevalall/gpt4all-demo/blob/main/docs/chat.png)
+![chat](https://github.com/AshleyDhevalall/llm-tools-demo/blob/main/docs/gpt4all_chat.png)
 
 > [!IMPORTANT]  
 > Always verify the accuracy of the results  
@@ -218,10 +218,10 @@ Uploading large files will result in an increased duration for the embedding to 
 
 #### Load Docs collection shows 0 files and 0 words
 
-<img src="https://github.com/AshleyDhevalall/gpt4all-demo/blob/main/docs/troubleshooting.png" style='height: 70%; width: 70%;'>
+<img src="https://github.com/AshleyDhevalall/llm-tools-demo/blob/main/docs/gpt4all_troubleshooting.png" style='height: 70%; width: 70%;'>
 
 Ensure that you have included the correct file extension
-![allowed_file_extensions](https://github.com/AshleyDhevalall/gpt4all-demo/blob/main/docs/allowed_file_extensions.png)
+![allowed_file_extensions](https://github.com/AshleyDhevalall/llm-tools-demo/blob/main/docs/gpt4all_allowed_file_extensions.png)
 
 > [!TIP]
 > [Allowed File Extensions](https://github.com/nomic-ai/gpt4all/wiki/LocalDocs)
@@ -229,7 +229,7 @@ Ensure that you have included the correct file extension
 #### Chat window closes after selecting model -> try using a smaller model
 This usually happens when using models that required more RAM than is available on your system. Try using a smaller model
 
-<img src="https://github.com/AshleyDhevalall/gpt4all-demo/blob/main/docs/ram_required.png" style='height: 70%; width: 70%;'>
+<img src="https://github.com/AshleyDhevalall/llm-tools-demo/blob/main/docs/gpt4all_ram_required.png" style='height: 70%; width: 70%;'>
 
 ### Further reading  
 [Quickstart](https://docs.gpt4all.io/gpt4all_desktop/quickstart.html#quickstart)  
