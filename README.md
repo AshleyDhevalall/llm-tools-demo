@@ -58,7 +58,7 @@ You can even insert full Hugging Face URLs into the search bar!. Please patient 
 Select model
 ![select-model](https://github.com/AshleyDhevalall/llm-tools-demo/blob/main/docs/lmstudio_select_model.png)
 
-5. Navigate to the folder you cloned in Step 4 and select the `src\UsingSQLWithPowerShellExamplesv1.ps1` file
+5. Navigate to the folder in [Clone Repository](https://github.com/AshleyDhevalall/llm-tools-demo/tree/main#clone-repository) and select the `samples\UsingSQLWithPowerShellExamplesv1.ps1` file
 
 6. Enter your prompt and click `Send`
 ```
@@ -97,7 +97,7 @@ It is an all-in-one zero-setup private application for local LLMs, RAG and AI Ag
 > [Workspaces](https://docs.anythingllm.com/chat-ui)
 <img src="https://github.com/AshleyDhevalall/llm-tools-demo/blob/main/docs/anythingllm_workspace.png" style='height: 30%; width: 30%;'>
 
-4. Upload files. Navigate to the `shakespeare` folder you cloned in Step 4 and upload the `romeo-and-juliet.pdf`
+4. Upload files.  Navigate to the folder in [Clone Repository](https://github.com/AshleyDhevalall/llm-tools-demo/tree/main#clone-repository) and select the `samples\romeo-and-juliet.pdf` file
 > [!WARNING]  
 > PDF, TXT, DOCX, Word docs and more. Unfortunately AnythingLLM does not support .ps1 file :(
 
@@ -182,7 +182,9 @@ Designed to run on modern to relatively modern PCs without needing an internet c
 
 <img src="https://github.com/AshleyDhevalall/llm-tools-demo/blob/main/docs/gpt4all_add_document_collection.png" style='height: 70%; width: 70%;'>
 
-6.2 Click `Browse`. Navigate to cloned repository folder above (Step 5) and then select the folder. Please patient while the embeddings complete...  
+6.2 Click `Browse`. 
+
+Navigate to the folder in [Clone Repository](https://github.com/AshleyDhevalall/llm-tools-demo/tree/main#clone-repository) and select the `samples` folder. Please patient while the embeddings complete...  
 
 <img src="https://github.com/AshleyDhevalall/llm-tools-demo/blob/main/docs/gpt4all_embeddings.png" style='height: 70%; width: 70%;'>
 
