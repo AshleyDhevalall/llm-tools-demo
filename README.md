@@ -12,9 +12,9 @@ The objective of this article is to run large language models locally to analyze
 
 | Tool  | Internet Connection required? | License
 | ------------- | ------------- | ------------- | 
-| LM Studio  | No  |
-| AnythingLLM  | No  |
-| GTP4aLL  | No  |
+| LM Studio  | No  | Free for personal use |
+| AnythingLLM  | No  | Free for personal use |
+| GTP4aLL  | No  | Free for personal use |
 
 ## Clone repository
 ```
