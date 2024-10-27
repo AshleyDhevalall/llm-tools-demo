@@ -244,9 +244,9 @@ This usually happens when using models that required more RAM than is available 
 
 ## Acknowledgements
 
-[GTP4All](<https://www.nomic.ai/gpt4all>)  
+[GTP4All](<https://www.nomic.ai/gpt4all>)
+[AnythingLLM](<https://anythingllm.com/>)  
 [Joshua Stenhouse](<https://virtuallysober.com/2017/07/10/working-with-sql-databases-using-powershell/>)  
 [Jayric Maning](<https://www.makeuseof.com/what-is-gpt4all-and-how-does-it-work/>) 
-[AnythingLLM](<https://anythingllm.com/>)  
-[anakin.ai](<https://anakin.ai/blog/anything-llm/>)
+[anakin.ai](<https://anakin.ai/blog/anything-llm/>)  
 [LM Studio](<https://lmstudio.ai/>)  
