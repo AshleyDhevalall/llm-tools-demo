@@ -36,7 +36,7 @@ Key functionality
 > [QuickStart](https://lmstudio.ai/docs/basics#1-download-an-llm-to-your-computer)  
 
 2. Open LM Studio. Please patient while the application opens...  
-![lmstudio](https://github.com/AshleyDhevalall/llm-tools-demo/tree/main/docs/lmstudio.png)
+![lmstudio](https://github.com/AshleyDhevalall/llm-tools-demo/blob/main/docs/lmstudio.png)
 
 3. Download model (Click `My Models` on left menu). Ensure you have selected 'Developer' as the role
 You can search for models by keyword (e.g. llama, gemma, lmstudio), or by providing a specific user/model string.  
