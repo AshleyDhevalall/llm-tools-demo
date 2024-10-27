@@ -1,4 +1,4 @@
-# llm-tools-demo
+# LLM Tools Demo
 
 The objective of this article is to run large language models locally to analyze local docs.
 
@@ -18,7 +18,7 @@ The objective of this article is to run large language models locally to analyze
 
 ## LM Studio
 
-## What is LM Studio?
+### What is LM Studio?
 LM Studio is a desktop app for developing and experimenting with LLMs on your computer.
 
 Key functionality
@@ -29,7 +29,7 @@ Key functionality
 - A local server that can listen on OpenAI-like endpoints  
 - Systems for managing local models and configurations  
 
-## Steps to follow
+### Steps to follow
 
 1. Download [LM Studio](https://lmstudio.ai/)
 > [!TIP]
@@ -71,7 +71,7 @@ Sample chat response
 > [!IMPORTANT]  
 > Always verify the accuracy of the results
 
-## Further reading  
+### Further reading  
 [Docs](https://lmstudio.ai/docs)  
 [Download Models](https://lmstudio.ai/docs/basics/download-model)  
 [Chat](https://lmstudio.ai/docs/basics/chat)  
@@ -79,11 +79,11 @@ Sample chat response
 
 ## AnythingLLM
 
-## What is AnythingLLM?
+### What is AnythingLLM?
 
 It is an all-in-one zero-setup private application for local LLMs, RAG and AI Agents with embedding models and vector database supportability
 
-## Steps to follow
+### Steps to follow
 
 1. Download [AnythingLLM](https://anythingllm.com/download)
 > [!TIP]
@@ -137,14 +137,14 @@ Sample prompt response
 > [!IMPORTANT]  
 > Always verify the accuracy of the results  
 
-## Troubleshooting
+### Troubleshooting
 Could not respond to message. fetch failed
 > [!TIP]
 > [Fetch failed error on embed](https://docs.anythingllm.com/fetch-failed-on-upload)
 
 ![troubleshooting](https://github.com/AshleyDhevalall/anythingllm-demo/blob/main/docs/trouble-shooting.png)
 
-## Further reading 
+### Further reading 
 [Setup](https://docs.anythingllm.com/setup/llm-configuration/local/built-in)  
 [Configuration](https://docs.anythingllm.com/configuration)  
 [System Requirements](https://docs.anythingllm.com/installation-desktop/system-requirements)  
@@ -152,13 +152,13 @@ Could not respond to message. fetch failed
 
 ## GTP4All
 
-## What is GTP4All?
+### What is GTP4All?
 
 An open-source ecosystem used for integrating LLMs into applications without paying for a platform or hardware subscription. It was created by Nomic AI, an information cartography company that aims to improve access to AI resources.
 
 Designed to run on modern to relatively modern PCs without needing an internet connection or even a GPU! This is possible since most of the models provided by GPT4All have been quantized to be as small as a few gigabytes, requiring only 4–16GB RAM to run.
 
-## Steps to follow
+### Steps to follow
 
 1. Download [GPT4All Desktop](https://www.nomic.ai/gpt4all)
 > [!TIP]
@@ -212,7 +212,7 @@ Sample chat response
 > Always verify the accuracy of the results  
 > GTP4All has an option that allows you to view the source of the files in the Chat response
 
-## Troubleshooting
+### Troubleshooting
 #### Embedding taking too long
 Uploading large files will result in an increased duration for the embedding to complete. Alternatively try a smaller subset of docs
 
@@ -231,7 +231,7 @@ This usually happens when using models that required more RAM than is available 
 
 <img src="https://github.com/AshleyDhevalall/gpt4all-demo/blob/main/docs/ram_required.png" style='height: 70%; width: 70%;'>
 
-## Further reading  
+### Further reading  
 [Quickstart](https://docs.gpt4all.io/gpt4all_desktop/quickstart.html#quickstart)  
 [Wiki](https://github.com/nomic-ai/gpt4all/wiki)  
 [FAQ](https://docs.gpt4all.io/gpt4all_help/faq.html)  
