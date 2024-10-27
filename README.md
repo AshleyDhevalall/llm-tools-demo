@@ -4,9 +4,9 @@ The objective of this article is to run large language models locally to analyze
 
 ## Tools  
 
-[LM Studio](https://github.com/AshleyDhevalall/llm-tools-demo/tree/main#lm-studio)
-[AnythingLLM](https://github.com/AshleyDhevalall/llm-tools-demo/tree/main#anythingllm)
-[GTP4All](https://github.com/AshleyDhevalall/llm-tools-demo/tree/main#gtp4all)
+[LM Studio](https://github.com/AshleyDhevalall/llm-tools-demo/tree/main#lm-studio)  
+[AnythingLLM](https://github.com/AshleyDhevalall/llm-tools-demo/tree/main#anythingllm)  
+[GTP4All](https://github.com/AshleyDhevalall/llm-tools-demo/tree/main#gtp4all)  
 
 ## Comparison
 
