@@ -16,6 +16,11 @@ The objective of this article is to run large language models locally to analyze
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
 
+## Clone repository
+```
+git clone https://github.com/AshleyDhevalall/llm-tools-demo.git
+```
+
 ## LM Studio
 
 ### What is LM Studio?
@@ -46,21 +51,16 @@ You can even insert full Hugging Face URLs into the search bar!. Please patient 
 
 ![download](https://github.com/AshleyDhevalall/llm-tools-demo/blob/main/docs/lmstudio_download.png)
 
-4. Clone repository
-```
-git clone https://github.com/AshleyDhevalall/lmstudio-demo.git
-```
-
-5. Click `Chat` on left menu
+4. Click `Chat` on left menu
 > [!TIP]
 > [Managing chats](https://lmstudio.ai/docs/basics/chat)
   
 Select model
 ![select-model](https://github.com/AshleyDhevalall/llm-tools-demo/blob/main/docs/lmstudio_select_model.png)
 
-6. Navigate to the folder you cloned in Step 4 and select the `src\UsingSQLWithPowerShellExamplesv1.ps1` file
+5. Navigate to the folder you cloned in Step 4 and select the `src\UsingSQLWithPowerShellExamplesv1.ps1` file
 
-7. Enter your prompt and click `Send`
+6. Enter your prompt and click `Send`
 ```
 what passwords are used?
 ```
@@ -97,12 +97,7 @@ It is an all-in-one zero-setup private application for local LLMs, RAG and AI Ag
 > [Workspaces](https://docs.anythingllm.com/chat-ui)
 <img src="https://github.com/AshleyDhevalall/llm-tools-demo/blob/main/docs/anythingllm_workspace.png" style='height: 30%; width: 30%;'>
 
-4. Clone repository
-```
-git clone https://github.com/AshleyDhevalall/anythingllm-demo.git
-```
-
-5. Upload files. Navigate to the `shakespeare` folder you cloned in Step 4 and upload the `romeo-and-juliet.pdf`
+4. Upload files. Navigate to the `shakespeare` folder you cloned in Step 4 and upload the `romeo-and-juliet.pdf`
 > [!WARNING]  
 > PDF, TXT, DOCX, Word docs and more. Unfortunately AnythingLLM does not support .ps1 file :(
 
@@ -126,7 +121,7 @@ Close the `My Documents window` once the embedding is complete
 
 <img src="https://github.com/AshleyDhevalall/llm-tools-demo/blob/main/docs/anythingllm_download.png" style='height: 50%; width: 50%;'>
 
-6. Enter your prompt and click `Send prompt message to workspace` icon
+5. Enter your prompt and click `Send prompt message to workspace` icon
 ```
 Who are the characters in Romeo and Juliet?
 ```
@@ -177,26 +172,21 @@ Designed to run on modern to relatively modern PCs without needing an internet c
 
 ![explore_models](https://github.com/AshleyDhevalall/llm-tools-demo/blob/main/docs/gpt4all_explore_models.png)
 
-5. Clone repository
-```
-git clone https://github.com/AshleyDhevalall/gpt4all-demo.git
-```
-
-6. Configure settings
+5. Configure settings
 > [!TIP]
 > [Settings](https://docs.gpt4all.io/gpt4all_desktop/settings.html)
 
-7.1 Click `LocalDocs` on left menu. Provide a `Collection name` eg. `Sample Test`
+6.1 Click `LocalDocs` on left menu. Provide a `Collection name` eg. `Sample Test`
 > [!TIP]
 > [LocalDocs](https://docs.gpt4all.io/gpt4all_desktop/localdocs.html)  
 
 <img src="https://github.com/AshleyDhevalall/llm-tools-demo/blob/main/docs/gpt4all_add_document_collection.png" style='height: 70%; width: 70%;'>
 
-7.2 Click `Browse`. Navigate to cloned repository folder above (Step 5) and then select the folder. Please patient while the embeddings complete...  
+6.2 Click `Browse`. Navigate to cloned repository folder above (Step 5) and then select the folder. Please patient while the embeddings complete...  
 
 <img src="https://github.com/AshleyDhevalall/llm-tools-demo/blob/main/docs/gpt4all_embeddings.png" style='height: 70%; width: 70%;'>
 
-8. Click `New chat` on left menu. Ensure you select the files from the `Local Docs` panel on the right side  
+7. Click `New chat` on left menu. Ensure you select the files from the `Local Docs` panel on the right side  
   
     Enter your prompt and click `Send`
 ```
