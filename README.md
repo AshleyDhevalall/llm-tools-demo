@@ -4,7 +4,7 @@ The objective of this article is to run large language models locally to analyze
 
 ## Tools  
 
-- LM Studio
+- [LM Studio](https://github.com/AshleyDhevalall/llm-tools-demo/tree/main#lm-studio)
 - AnythingLLM
 - GTP4All
 
