@@ -44,7 +44,7 @@ You can even insert full Hugging Face URLs into the search bar!. Please patient 
 > [!TIP]
 > [Download Models](https://lmstudio.ai/docs/basics/download-model)
 
-![download](https://github.com/AshleyDhevalall/llm-tools-demo/tree/main/docs/download.png)
+![download](https://github.com/AshleyDhevalall/llm-tools-demo/blob/main/docs/lmstudio_download.png)
 
 4. Clone repository
 ```
