@@ -8,14 +8,6 @@ The objective of this article is to run large language models locally to analyze
 [AnythingLLM](https://github.com/AshleyDhevalall/llm-tools-demo/tree/main#anythingllm)  
 [GTP4All](https://github.com/AshleyDhevalall/llm-tools-demo/tree/main#gtp4all)  
 
-## Comparison
-
-| Tool  | Internet connection required? | License | Citations
-| ------------- | ------------- | ------------- | ------------- | 
-| LM Studio  | No  | Free for personal use | Yes
-| AnythingLLM  | No  | Free for personal use | No 
-| GTP4ALL  | No  | Free for personal use | No 
-
 ## Clone repository
 ```
 git clone https://github.com/AshleyDhevalall/llm-tools-demo.git
