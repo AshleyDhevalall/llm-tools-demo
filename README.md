@@ -56,7 +56,7 @@ git clone https://github.com/AshleyDhevalall/lmstudio-demo.git
 > [Managing chats](https://lmstudio.ai/docs/basics/chat)
   
 Select model
-![select-model](https://github.com/AshleyDhevalall/llm-tools-demo/tree/main/docs/select_model.png)
+![select-model](https://github.com/AshleyDhevalall/llm-tools-demo/blob/main/docs/lmstudio_select_model.png)
 
 6. Navigate to the folder you cloned in Step 4 and select the `src\UsingSQLWithPowerShellExamplesv1.ps1` file
 
@@ -66,7 +66,7 @@ what passwords are used?
 ```
 
 Sample chat response  
-![chat_response](https://github.com/AshleyDhevalall/llm-tools-demo/tree/main/docs/chat_response.png)
+![chat_response](https://github.com/AshleyDhevalall/llm-tools-demo/blob/main/docs/lmstudio_chat_response.png)
 
 > [!IMPORTANT]  
 > Always verify the accuracy of the results
