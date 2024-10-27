@@ -10,11 +10,11 @@ The objective of this article is to run large language models locally to analyze
 
 ## Comparison
 
-| Tool  | Internet Connection required? |
-| ------------- | ------------- |
-| LM Sutdio  | Content Cell  |
-| AnythingLLM  | Content Cell  |
-| GTP4aLL  | Content Cell  |
+| Tool  | Internet Connection required? | License
+| ------------- | ------------- | ------------- | 
+| LM Studio  | No  |
+| AnythingLLM  | No  |
+| GTP4aLL  | No  |
 
 ## Clone repository
 ```
