@@ -1,6 +1,6 @@
 # LLM Tools Demo
 
-The objective of this article is to run large language models locally to analyze local docs.
+The objective of this article is to run different large language models to analyze local docs.
 
 ## Tools  
 
