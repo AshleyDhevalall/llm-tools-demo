@@ -5,15 +5,6 @@ The objective of this article is to run large language models locally to analyze
 ## Tools  
 
 [LM Studio](https://github.com/AshleyDhevalall/llm-tools-demo/tree/main#lm-studio)  
-[AnythingLLM](https://github.com/AshleyDhevalall/llm-tools-demo/tree/main#anythingllm)  
-[GTP4All](https://github.com/AshleyDhevalall/llm-tools-demo/tree/main#gtp4all)  
-
-## Clone repository
-```
-git clone https://github.com/AshleyDhevalall/llm-tools-demo.git
-```
-
-## LM Studio
 
 ### What is LM Studio?
 LM Studio is a desktop app for developing and experimenting with LLMs on your computer.
@@ -25,6 +16,26 @@ Key functionality
 - Search & download functionality (via Hugging Face 🤗)  
 - A local server that can listen on OpenAI-like endpoints  
 - Systems for managing local models and configurations  
+
+[AnythingLLM](https://github.com/AshleyDhevalall/llm-tools-demo/tree/main#anythingllm)  
+### What is AnythingLLM?
+
+It is an all-in-one zero-setup private application for local LLMs, RAG and AI Agents with embedding models and vector database supportability  
+
+[GTP4All](https://github.com/AshleyDhevalall/llm-tools-demo/tree/main#gtp4all)  
+### What is GTP4All?
+
+An open-source ecosystem used for integrating LLMs into applications without paying for a platform or hardware subscription. It was created by Nomic AI, an information cartography company that aims to improve access to AI resources.
+
+Designed to run on modern to relatively modern PCs without needing an internet connection or even a GPU! This is possible since most of the models provided by GPT4All have been quantized to be as small as a few gigabytes, requiring only 4–16GB RAM to run.
+
+
+## Clone repository
+```
+git clone https://github.com/AshleyDhevalall/llm-tools-demo.git
+```
+
+## LM Studio
 
 ### Steps to follow
 
@@ -72,10 +83,6 @@ Sample chat response
 
 
 ## AnythingLLM
-
-### What is AnythingLLM?
-
-It is an all-in-one zero-setup private application for local LLMs, RAG and AI Agents with embedding models and vector database supportability
 
 ### Steps to follow
 
@@ -142,12 +149,6 @@ Could not respond to message. fetch failed
 
 
 ## GTP4All
-
-### What is GTP4All?
-
-An open-source ecosystem used for integrating LLMs into applications without paying for a platform or hardware subscription. It was created by Nomic AI, an information cartography company that aims to improve access to AI resources.
-
-Designed to run on modern to relatively modern PCs without needing an internet connection or even a GPU! This is possible since most of the models provided by GPT4All have been quantized to be as small as a few gigabytes, requiring only 4–16GB RAM to run.
 
 ### Steps to follow
 
