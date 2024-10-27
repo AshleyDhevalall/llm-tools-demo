@@ -75,7 +75,9 @@ Sample chat response
 [Docs](https://lmstudio.ai/docs)  
 [Download Models](https://lmstudio.ai/docs/basics/download-model)  
 [Chat](https://lmstudio.ai/docs/basics/chat)  
-[Chat with Documents](https://lmstudio.ai/docs/basics/rag)
+[Chat with Documents](https://lmstudio.ai/docs/basics/rag)  
+
+
 
 ## AnythingLLM
 
@@ -144,6 +146,8 @@ Could not respond to message. fetch failed
 [Configuration](https://docs.anythingllm.com/configuration)  
 [System Requirements](https://docs.anythingllm.com/installation-desktop/system-requirements)  
 [FAQ](https://docs.anythingllm.com/llm-not-using-my-docs)  
+
+
 
 ## GTP4All
 
